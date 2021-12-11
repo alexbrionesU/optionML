@@ -12,6 +12,6 @@ optionML is a machine learning project which utilizes artificial intelligence ne
 - RSI
 - MFI
 
+# Test
 
-#test
 ![gradient descent - cost formula](https://user-images.githubusercontent.com/38999690/145663514-aba82b20-3c8d-4602-adaa-3954a7ac39b1.JPG)
